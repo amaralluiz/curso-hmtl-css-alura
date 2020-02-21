@@ -1,1 +1,1 @@
-#Repositório para projeto do curso da Alura de html e css
+# Repositório para projeto do curso da Alura de HTML e CSS
